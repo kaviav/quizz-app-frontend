@@ -1,10 +1,10 @@
 :root {
-  --color-darkest: #343a40;
+  --color-darkest: #009999;
   --color-dark: #495057;
   --color-medium: #ced4da;
-  --color-light: #f1f3f5;
+  --color-light: hsl(0, 0%, 100%);
 
-  --color-theme: #1098ad;
+  --color-theme: #072128;
   --color-accent: #ffa94d;
 }
 
