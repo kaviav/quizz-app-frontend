@@ -1,6 +1,3 @@
-// first start by command "npm start or npm run start"
-
-// then run the json server by command "npm run server"
 import { useEffect, useReducer } from "react";
 import Header from "./Header";
 import Main from "./Main";
@@ -172,3 +169,5 @@ export default function App() {
     </div>
   );
 }
+
+// frontend runs in aws & backend in render.com
